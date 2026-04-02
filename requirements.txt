@@ -1,0 +1,12 @@
+pip~=26.0.1
+protobuf~=6.33.6
+cryptography~=46.0.6
+pillow~=12.1.1
+Jinja2~=3.1.6
+setuptools~=65.5.0
+packaging~=26.0
+pyparsing~=3.3.2
+typing_extensions~=4.15.0
+matplotlib~=3.10.8
+pandas~=3.0.1
+fpdf2~=2.8.7
